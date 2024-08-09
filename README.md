@@ -26,43 +26,43 @@ Bombers can be categorised based on the communication platform they target. The 
 
 #### **2.2.1 SMS Bombers**
 
-## **Definition:** SMS bombers are tools that send a high volume of text messages to a target phone number. These tools exploit the SMS service of mobile networks or online messaging platforms to deliver the messages.
+ **Definition:** SMS bombers are tools that send a high volume of text messages to a target phone number. These tools exploit the SMS service of mobile networks or online messaging platforms to deliver the messages.
 
-## **Technical Mechanism:** SMS bombers typically use API calls to SMS gateways or web-based messaging services. They loop through the sending process, often randomising message content to avoid detection by spam filters.
+ **Technical Mechanism:** SMS bombers typically use API calls to SMS gateways or web-based messaging services. They loop through the sending process, often randomising message content to avoid detection by spam filters.
 
-## **Impact:** SMS bombers can lead to message overflow, causing the target device to be inundated with notifications, potentially resulting in service disruption, increased charges, and invasion of privacy.
+ **Impact:** SMS bombers can lead to message overflow, causing the target device to be inundated with notifications, potentially resulting in service disruption, increased charges, and invasion of privacy.
 
 #### **2.2.2 Call Bombers**
 
-## **Definition:** Call bombers are tools that repeatedly call a target phone number, overwhelming the recipient with continuous or frequent calls.
+ **Definition:** Call bombers are tools that repeatedly call a target phone number, overwhelming the recipient with continuous or frequent calls.
 
-## **Technical Mechanism:** Call bombers use VoIP services, automated dialing systems, or telephony APIs to initiate calls. These systems can be programmed to dial numbers in quick succession, making it difficult for the target to use their phone normally.
+ **Technical Mechanism:** Call bombers use VoIP services, automated dialing systems, or telephony APIs to initiate calls. These systems can be programmed to dial numbers in quick succession, making it difficult for the target to use their phone normally.
 
-## **Impact:** Call bombers can disrupt the target\'s ability to receive legitimate calls, cause annoyance and stress, and potentially lead to service provider actions against the recipient due to perceived misuse.
+ **Impact:** Call bombers can disrupt the target\'s ability to receive legitimate calls, cause annoyance and stress, and potentially lead to service provider actions against the recipient due to perceived misuse.
 
 #### **2.2.3 Email Bombers**
 
-## **Definition:** Email bombers send a large volume of emails to a target email address, often with the intention of filling the inbox, causing delays, or triggering spam filters.
+ **Definition:** Email bombers send a large volume of emails to a target email address, often with the intention of filling the inbox, causing delays, or triggering spam filters.
 
-## **Technical Mechanism:** Email bombers utilise SMTP servers or email service APIs to automate the sending process. They can be configured to send emails with varied subjects and content to evade detection.
+ **Technical Mechanism:** Email bombers utilise SMTP servers or email service APIs to automate the sending process. They can be configured to send emails with varied subjects and content to evade detection.
 
-## **Impact:** Email bombers can fill the target\'s inbox, leading to missed important emails, increased server load, and potential blacklisting of the target email address.
+ **Impact:** Email bombers can fill the target\'s inbox, leading to missed important emails, increased server load, and potential blacklisting of the target email address.
 
 #### **2.2.4 Social Media Bombers**
 
-## **Definition:** Social media bombers are tools that flood a target\'s social media account with messages, comments, or mentions.
+ **Definition:** Social media bombers are tools that flood a target\'s social media account with messages, comments, or mentions.
 
-## **Technical Mechanism:** These bombers use social media platform APIs or automated bots to post or send messages en masse. They can operate across multiple platforms, including Facebook, Twitter, Instagram, and others.
+ **Technical Mechanism:** These bombers use social media platform APIs or automated bots to post or send messages en masse. They can operate across multiple platforms, including Facebook, Twitter, Instagram, and others.
 
-## **Impact:** Social media bombers can disrupt the target\'s social media interactions, damage their online reputation, and cause emotional distress. They can also lead to account suspension due to perceived spamming activity.
+ **Impact:** Social media bombers can disrupt the target\'s social media interactions, damage their online reputation, and cause emotional distress. They can also lead to account suspension due to perceived spamming activity.
 
 #### **2.2.5 Instant Messaging Bombers**
 
-## **Definition:** Instant messaging bombers target messaging apps such as WhatsApp, Telegram, or Facebook Messenger, sending a flood of messages to the target.
+ **Definition:** Instant messaging bombers target messaging apps such as WhatsApp, Telegram, or Facebook Messenger, sending a flood of messages to the target.
 
-## **Technical Mechanism:** These bombers exploit the messaging apps\' APIs or use bots to automate the sending of messages. They can send text, multimedia, or a combination to overwhelm the recipient.
+ **Technical Mechanism:** These bombers exploit the messaging apps\' APIs or use bots to automate the sending of messages. They can send text, multimedia, or a combination to overwhelm the recipient.
 
-## **Impact:** Instant messaging bombers can cause notification overload, disrupt communication, and potentially lead to app performance issues on the target device.
+ **Impact:** Instant messaging bombers can cause notification overload, disrupt communication, and potentially lead to app performance issues on the target device.
 
 ## **3. How Bombers Work**
 
@@ -74,11 +74,11 @@ Bombers use various technical mechanisms to achieve their objective of overwhelm
 
 Bombers operate by sending multiple requests to a target through a communication platform. This involves:
 
-- **Looping Requests:** Scripts or programs are written to loop through the sending process, creating a continuous stream of messages or calls.
+- Looping Requests: Scripts or programs are written to loop through the sending process, creating a continuous stream of messages or calls.
 
-- **Randomization:** To avoid detection by spam filters or automated defences, bombers often randomise message content, sender IDs, or call times.
+- Randomization:  To avoid detection by spam filters or automated defences, bombers often randomise message content, sender IDs, or call times.
 
-- **Concurrency:** Multiple threads or processes are used to send requests simultaneously, increasing the rate of delivery and overwhelming the target faster.
+- Concurrency: Multiple threads or processes are used to send requests simultaneously, increasing the rate of delivery and overwhelming the target faster.
 
 For example, an SMS bomber might send hundreds of messages per minute by leveraging a for-loop and threading in a Python script, with each iteration sending a new SMS request.
 
