@@ -240,27 +240,19 @@ the entered number.
 
 #### **4.2.2.2 Features**
 
--   Call Bombers: Allows users to send numerous automated calls to a
-    > target number.
+-   Call Bombers: Allows users to send numerous automated calls to a target number.
 
--   WhatsApp Bombers: Provides the capability to send a high volume
-    > of WhatsApp messages to a target contact.
+-   WhatsApp Bombers: Provides the capability to send a high volume of WhatsApp messages to a target contact.
 
--   Call+SMS Bombers: Combines both calling and SMS bombing
-    > functionalities to increase the prank\'s intensity.
+-   Call+SMS Bombers: Combines both calling and SMS bombing functionalities to increase the prank\'s intensity.
 
--   Country Code Detection: Automatically detects the country code
-    > based on the entered number, simplifying the process for users.
+-   Country Code Detection: Automatically detects the country code based on the entered number, simplifying the process for users.
 
--   User Agreement: Users must agree to the terms and conditions
-    > before using the tool, promoting responsible use.
+-   User Agreement: Users must agree to the terms and conditions before using the tool, promoting responsible use.
 
--   Ease of Use: The tool is designed with a user-friendly
-    > interface, requiring only the target number to initiate the
-    > bombing process.
+-   Ease of Use: The tool is designed with a user-friendly interface, requiring only the target number to initiate the bombing process.
 
--   Accessibility: The platform is accessible online, allowing users
-    > to prank from any device with internet access.
+-   Accessibility: The platform is accessible online, allowing users to prank from any device with internet access.
 
 #### **4.2.2.3 Link to Tool:** [[CallBomber.in]{.underline}](https://callbomber.in/index.php)
 
