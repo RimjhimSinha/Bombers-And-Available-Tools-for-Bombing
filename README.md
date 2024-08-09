@@ -208,13 +208,13 @@ MyToolsTown SMS Bomber is an online tool designed for sending a large number of 
 
 -   [**[SMS_bomber.py]**](https://github.com/bhattsameer/Bombers/blob/master/SMS_bomber.py)
 
--   [**[bomb3r]**](https://github.com/iMro0t/bomb3r)
-
--   [**[XLR8_BOMBER]**](https://github.com/anubhavanonymous/XLR8_BOMBER)
-
 -   [**[Beast_Bomber]**](https://github.com/un1cum/Beast_Bomber)
 
 -   [**[YetAnotherSMSBomber]**](https://github.com/AvinashReddy3108/YetAnotherSMSBomber)
+
+-   [**[Great OnlineTools - SMS Bomber]**](https://greatonlinetools.com/smsbomber/#smsbomber)
+
+-   [**[RevengeBomber2.0]**](https://github.com/alexbieber/RevengeBomber2.0)
 
 ### **4.2 Call Bombers**
 
