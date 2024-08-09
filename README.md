@@ -158,7 +158,7 @@ MyToolsTown SMS Bomber is an online tool designed for sending a large number of 
 
 -   Protective Measures: Provides features to protect mobile numbers from being targeted by the SMS bomber.
 
-#### **4.1.1.3 Link to Tool: [[MyToolsTown SMS Bomber]{.underline}](https://mytoolstown.com/smsbomber/)**
+#### **4.1.1.3 Link to Tool: [[MyToolsTown SMS Bomber]](https://mytoolstown.com/smsbomber/)**
 
 ### **4.1.2 Tool 2: SMS Bomber 2024**
 
@@ -178,7 +178,7 @@ MyToolsTown SMS Bomber is an online tool designed for sending a large number of 
 
 -   Protection Feature: Provides an option to protect mobile numbers from being targeted by the SMS Bomber using the platform's protection mechanism.
 
-#### **4.1.2.3 Link to Tool: [[SMS Bomber 2024]{.underline}](https://smsbomber.online/)**
+#### **4.1.2.3 Link to Tool: [[SMS Bomber 2024]](https://smsbomber.online/)**
 
 ### **4.1.3 Tool 3: TBomb v2.1b**
 
@@ -202,7 +202,7 @@ MyToolsTown SMS Bomber is an online tool designed for sending a large number of 
 
 -   Platform Compatibility: Compatible with various platforms, including Termux, iSH, Debian-based systems, and macOS.
 
-#### **4.1.3.3 Link to Tool: [[TBomb v2.1b GitHub Repository]{.underline}](https://github.com/TheSpeedX/TBomb)**
+#### **4.1.3.3 Link to Tool: [[TBomb v2.1b GitHub Repository]](https://github.com/TheSpeedX/TBomb)**
 
 ### **4.2 Call Bombers**
 
@@ -224,7 +224,7 @@ MyToolsTown SMS Bomber is an online tool designed for sending a large number of 
 
 -   Ethical Use Clause: The platform emphasises using the tool responsibly and only for pranking friends or family with their consent.
 
-#### **4.2.1.3 Link to Tool: [[https://smsbomber.online/call-bomber]{.underline}](https://smsbomber.online/call-bomber)**
+#### **4.2.1.3 Link to Tool: [[https://smsbomber.online/call-bomber]](https://smsbomber.online/call-bomber)**
 
 ### **4.2.2 Tool 2: CallBomber.in**
 
@@ -254,7 +254,7 @@ the entered number.
 
 -   Accessibility: The platform is accessible online, allowing users to prank from any device with internet access.
 
-#### **4.2.2.3 Link to Tool:** [[CallBomber.in]{.underline}](https://callbomber.in/index.php)
+#### **4.2.2.3 Link to Tool:** [[CallBomber.in]](https://callbomber.in/index.php)
 
 ### **4.2.3 Tool 3: MASTER-BOMBER 2.O**
 
@@ -280,7 +280,7 @@ the entered number.
 
 -   Easy Installation: Simple installation commands for both Termux and Linux environments.
 
-#### **4.2.3.3 Link to Tool: [[MASTER-BOMBER2.O GitHub Repository]{.underline}](https://github.com/jatinkalwar/m-bomber2.O)**
+#### **4.2.3.3 Link to Tool: [[MASTER-BOMBER2.O GitHub Repository]](https://github.com/jatinkalwar/m-bomber2.O)**
 
 ### **4.3 Email Bombers**
 
@@ -306,7 +306,7 @@ the entered number.
 
 -   Kali Linux Compatibility: Specifically designed for use on the Kali Linux operating system.
 
-##### **4.3.1.3 Link to Tool: [[EmBomber on GitHub]{.underline}](https://github.com/MazenElzanaty/EmBomber)**
+##### **4.3.1.3 Link to Tool: [[EmBomber on GitHub]](https://github.com/MazenElzanaty/EmBomber)**
 
 ### **5. Security and Prevention**
 
